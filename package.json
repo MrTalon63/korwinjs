@@ -1,6 +1,6 @@
 {
   "name": "korwinjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "korwinjs",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/MrTalon63/korwinjs.git"
   },
-  "keywords": [],
+  "keywords": [
+    "korwinjs",
+    "korwin",
+    "konfederacja",
+    "polska",
+    "polityka",
+    "free to use"
+  ],
   "author": "mrtalon63 <marcin@czop.ru>",
   "license": "MIT",
   "bugs": {
