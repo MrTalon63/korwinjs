@@ -1,0 +1,20 @@
+{
+  "name": "korwinjs",
+  "version": "0.0.1",
+  "description": "korwinjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTalon63/korwinjs.git"
+  },
+  "keywords": [],
+  "author": "mrtalon63 <marcin@czop.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrTalon63/korwinjs/issues"
+  },
+  "homepage": "https://github.com/MrTalon63/korwinjs#readme"
+}
